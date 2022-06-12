@@ -25,6 +25,8 @@ function Expenses(props) {
         date={props.item[3].date}
       />
       </div>
+
+      
     )
 }
 
